@@ -15,3 +15,5 @@ Asennus Ohjeet :
 
 Jos haluat spawnata auton kirjoita chattiin /car police
 HUOM TÄMÄ AUTO KORVAA NORMI POLICE AUTON.
+
+https://cdn.discordapp.com/attachments/816762913783939123/825513048311726180/tulliauto3.png
